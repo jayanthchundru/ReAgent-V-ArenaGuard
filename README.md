@@ -32,6 +32,7 @@
 
   
 ## News
+🚀 **Update [Sept 19, 2025]:** Our paper (arXiv:2506.01300) has been accepted to **NeurIPS 2025**! 
 🔥 **\[June 2, 2025]** Our latest paper is now live on arXiv: [arXiv:2506.01300](https://arxiv.org/abs/2506.01300)!
 
 
