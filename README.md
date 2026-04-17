@@ -136,10 +136,9 @@ Each subfolder contains its own `README.md` with detailed installation, setup, a
 
 ---
 
-## 📚 Citation
-
-If you find ReAgent-V helpful in your research or projects, please consider citing:
-
+## Reference 
+Thank you for the amazing work and open-sourcing the code.
+[arXiv:2506.01300](https://arxiv.org/abs/2506.01300) 
 ```bibtex
 @article{zhou2025reagent,
   title={ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding},
