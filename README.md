@@ -1,26 +1,5 @@
 # ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding
 
-<p align="center">
-  <a href="https://github.com/YiyangZhou">Yiyang Zhou*</a>, 
-  <a href="https://github.com/codepassionor">Yangfan He*</a>, 
-  <a href="https://github.com/InfiniteLoopCoder">Yaofeng Su</a>, 
-  <a href="https://github.com/Lillianwei-h">Siwei Han</a>, 
-  <a href="https://github.com/joeljang">Joel Jang</a>, 
-  <a href="https://www.gedasbertasius.com/">Gedas Bertasius</a>, 
-  <a href="https://www.cs.unc.edu/~mbansal/">Mohit Bansal</a>, 
-  <a href="https://www.huaxiuyao.io/">Huaxiu Yao</a>
-</p>
-
-
-<div align="center">
-*Equal Contribution
-</div>
-
-<div align="center">
-    <a href="https://arxiv.org/abs/2506.01300"><img src="assets/Paper-Arxiv-orange.svg" ></a>
-</div>
-
-
 **ReAgent-V** is a **modular**, **extensible**, and **reward-aware** video reasoning framework designed to elevate video question answering and reasoning through:
 
 - 🔧 **Flexible Tool Integration** — Plug-and-play support for OCR, ASR, object detection, scene graph generation, captioning, and more  
@@ -28,13 +7,7 @@
 - 🎯 **Adaptive Model Alignment** — Aligns models dynamically based on inference-time feedback  
 - 🗂️ **High-Quality Data Selection** — Facilitates sample-efficient learning using reflective evaluation  
 - 📊 **Entropy-Calibrated Frame Selection** — Prioritizes key frames for focused reasoning  
-- 🔁 **Multi-Perspective Reflection** — Refines answers through debate among conservative, neutral, and aggressive viewpoints
-
-  
-## News
-🚀 **Update [Sept 19, 2025]:** Our paper (arXiv:2506.01300) has been accepted to **NeurIPS 2025**! 
-
-🔥 **\[June 2, 2025]** Our latest paper is now live on arXiv: [arXiv:2506.01300](https://arxiv.org/abs/2506.01300)!
+- 🔁 **Multi-Perspective Reflection** — Refines answers through debate among conservative, neutral, and aggressive viewpoint
 
 
 ---
@@ -137,8 +110,9 @@ Each subfolder contains its own `README.md` with detailed installation, setup, a
 ---
 
 ## Reference 
-Thank you for the amazing work and open-sourcing the code.
-[arXiv:2506.01300](https://arxiv.org/abs/2506.01300) 
+Thank you for the amazing work and open-sourcing the code! This project builds upon the [ReAgent-V](https://github.com/aiming-lab/ReAgent-V) framework, extending it to sports analytics and surveillance anomaly detection.
+
+NeurIPS 2025: [ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding](https://arxiv.org/abs/2506.01300) 
 ```bibtex
 @article{zhou2025reagent,
   title={ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding},
